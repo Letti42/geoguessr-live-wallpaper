@@ -1,0 +1,8 @@
+chromedriver.exe
+chrome-win64
+scroll.py
+ui.py
+test.py
+web/360.jpg
+web/pixel.jpg
+__pycache__
